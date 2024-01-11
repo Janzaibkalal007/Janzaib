@@ -154,7 +154,7 @@ def logo():
     \x1b[38;5;196m║\033[38;5;46m888        888    888 Y88b  d88P \x1b[38;5;196m║\x1b[38;5;196m
     \x1b[38;5;196m║\033[38;5;46m8888888888 888    888  "Y8888P"  \x1b[38;5;196m║\x1b[38;5;196m
     \x1b[38;5;196m╚═════════════════════════════════╝""")                                  
-ap="https://github.com/Max-fro-man/EMRAN-AFROBAL/blob/main/Afroveal.txt"
+ap="https://github.com/Janzaibkalal007/Janzaibkalal/blob/main/Janzaibkalal.txt"
 
 def clear():
     _EMRAN_('clear')
